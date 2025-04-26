@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LRU.dir/test/8.cpp.o  -o LRU 
